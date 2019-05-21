@@ -1,0 +1,3 @@
+Betty,7
+Marry,18
+John,15
